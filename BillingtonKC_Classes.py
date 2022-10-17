@@ -64,7 +64,7 @@ class Salary_Employee(Employee):
 
 
 
-# Four employees:
+# Print header
 print('-' * 75)       
 
 employee1 = Salary_Employee('1', 'smith', 'john', '1200')
